@@ -1,0 +1,12 @@
+Knowledge Base (RAG)
+
+1. ¿Cuál es el tiempo objetivo por operación?
+2. ¿Qué debe hacer el analista si una operación supera 45 minutos?
+3. ¿Qué pasa si una operación sigue pendiente durante dos jornadas?
+4. ¿El procedimiento incluye la contraseña de PostgreSQL?
+
+EzPresto (MCP)
+
+1. ¿Cuántas operaciones pendientes hay por centro?
+2. ¿Qué centro tiene mayor tiempo promedio?
+3. ¿Qué operaciones superan 45 minutos?

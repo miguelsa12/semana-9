@@ -1,0 +1,14 @@
+id_operacion,fecha,centro,estado,tiempo_min
+OP001,2026-11-01,Norte,Completada,18
+OP002,2026-11-01,Norte,Pendiente,39
+OP003,2026-11-01,Norte,Completada,22
+OP004,2026-11-02,Norte,Pendiente,49
+OP005,2026-11-02,Centro,Completada,27
+OP006,2026-11-02,Centro,Pendiente,35
+OP007,2026-11-03,Centro,Completada,24
+OP008,2026-11-03,Centro,Pendiente,
+OP009,2026-11-03,Sur,Completada,47
+OP010,2026-11-04,Sur,Pendiente,51
+OP011,2026-11-04,Sur,Completada,38
+OP012,2026-11-04,Sur,Completada,44
+OP002,2026-11-01,Norte,Pendiente,39

@@ -1,0 +1,10 @@
+PROCEDIMIENTO OPERATIVO — DEMO-OPS-01
+Documento ficticio para el taller.
+
+1. El tiempo objetivo por operación es 25 minutos.
+2. Una operación que supera 45 minutos debe clasificarse para revisión de tiempos.
+3. El analista notifica al Supervisor de Operaciones y registra la escalación durante la misma jornada.
+4. Las operaciones pendientes se revisan al inicio de la siguiente jornada.
+5. Si una operación permanece pendiente durante dos jornadas, el Supervisor solicita una revisión manual.
+6. Los centros del ejemplo son Norte, Centro y Sur.
+7. Este procedimiento no autoriza cambios automáticos a bases de datos ni acceso público a servicios.
